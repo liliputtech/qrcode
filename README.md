@@ -1,5 +1,5 @@
-# QR Code Reader Lite's Privacy Policy
-I (QR Code Reader Lite developer) built the QR Code Reader Lite app as a Free app. This SERVICE is provided by me at no cost and is intended for use as is.
+# QR/Barcode Reader Lite's Privacy Policy
+I (QR/Barcode Reader Lite developer) built the QR/Barcode Reader Lite app as a Free app. This SERVICE is provided by me at no cost and is intended for use as is without warranty.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
